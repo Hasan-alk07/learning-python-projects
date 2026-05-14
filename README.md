@@ -38,9 +38,9 @@ Die Projekte sind bewusst kurz gehalten, damit ich neue Ideen schnell ausprobier
 
 
 
+---
 
-
-   #  Python Budget-Tracker
+#  Python Budget-Tracker
 
 Dies ist mein allererstes Python-Projekt Es handelt sich um ein kleines Skript im Terminal, das dabei hilft, Einnahmen und Ausgaben zu tracken und am Ende visuell darzustellen.
 
