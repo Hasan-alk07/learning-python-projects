@@ -19,7 +19,7 @@ Die Projekte sind bewusst kurz gehalten, damit ich neue Ideen schnell ausprobier
 
 ---
 
-## 🚀 Ziele dieses Repositories
+##  Ziele dieses Repositories
 
 - Meine Python‑Kenntnisse kontinuierlich verbessern  
 - Programmierlogik und Problemlösung trainieren  
@@ -29,7 +29,7 @@ Die Projekte sind bewusst kurz gehalten, damit ich neue Ideen schnell ausprobier
 
 ---
 
-## ▶️ Ausführen der Projekte
+##  Ausführen der Projekte
 
 1. Stelle sicher, dass Python installiert ist (Version 3.10 oder höher empfohlen).
 2. Lade das Repository herunter oder klone es:
