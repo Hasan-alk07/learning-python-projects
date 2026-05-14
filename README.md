@@ -55,3 +55,22 @@ Dies ist mein allererstes Python-Projekt. Es handelt sich um ein kleines Skript 
 - Das Erstellen von **while-Schleifen**, um Programme interaktiv zu machen.
 - **Hardcoding** und Kommentare zum effizienten Testen von Code.
 - Die Integration und Nutzung von externen Bibliotheken wie `matplotlib` für die Datenvisualisierung.
+
+
+---
+
+#  Python Bauteil-Rechner
+
+Mein zweites Python-Projekt! Diesmal geht es um die praktische Anwendung im Maschinenbau: Ein kleines Terminal-Programm, das das Volumen und das finale Gewicht von verschiedenen geometrischen Bauteilen berechnet.
+
+##  Was das Programm macht:
+1. Es fragt den Nutzer, welche Geometrie (z. B. Zylinder oder Quader) berechnet werden soll.
+2. Es fragt gezielt nach den dafür nötigen Abmessungen (Länge, Radius, Höhe, Breite).
+3. Es präsentiert eine Auswahl an verschiedenen Werkstoffen (Stahl, Aluminium, Titan) aus einer integrierten Material-Datenbank.
+4. Es berechnet das Volumen und ermittelt über die materialspezifische Dichte das endgültige Gewicht des Bauteils.
+
+##  Was ich in diesem Projekt gelernt habe:
+- Das Schreiben und Aufrufen von eigenen **Funktionen (`def`)**, um den Code in logische, wiederverwendbare Maschinen aufzuteilen (und die wichtige Regel: Klammern bedeuten Aktion!).
+- Den Einsatz von **if/elif-Bedingungen**, um den Programmablauf dynamisch anhand von Benutzereingaben zu steuern.
+- Den direkten Werte-Zugriff bei **Dictionaries** mittels eckiger Klammern `[]`, um Texteingaben des Nutzers in mathematische Zahlenwerte (die Dichte) umzuwandeln.
+- Die Nutzung der **`math`-Bibliothek**, um mit Konstanten wie Pi ($\pi$) zu rechnen.
