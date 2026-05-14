@@ -61,7 +61,7 @@ Dies ist mein allererstes Python-Projekt. Es handelt sich um ein kleines Skript 
 
 #  Python Bauteil-Rechner
 
-Mein zweites Python-Projekt! Diesmal geht es um die praktische Anwendung im Maschinenbau: Ein kleines Terminal-Programm, das das Volumen und das finale Gewicht von verschiedenen geometrischen Bauteilen berechnet.
+Mein zweites Python-Projekt. Diesmal geht es um die praktische Anwendung im Maschinenbau: Ein kleines Terminal-Programm, das das Volumen und das finale Gewicht von verschiedenen geometrischen Bauteilen berechnet.
 
 ##  Was das Programm macht:
 1. Es fragt den Nutzer, welche Geometrie (z. B. Zylinder oder Quader) berechnet werden soll.
